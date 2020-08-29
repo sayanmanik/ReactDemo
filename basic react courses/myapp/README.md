@@ -1,3 +1,12 @@
+
+<img src="images/firstImage.png" width = "300">
+
+<img src="images/secondImage.png" width = "300">
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
