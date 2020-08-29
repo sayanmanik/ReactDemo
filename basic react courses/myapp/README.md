@@ -1,7 +1,7 @@
 
-<img src="images/firstImage.png" width = "300">
+<img src="images/firstImage.png" width = "500">
 
-<img src="images/secondImage.png" width = "300">
+<img src="images/secondImage.png" width = "500">
 
 
 
