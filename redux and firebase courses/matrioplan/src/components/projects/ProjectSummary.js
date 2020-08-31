@@ -7,6 +7,8 @@ const ProjectSummary = ( {project} ) => {
         <span className="card-title ">{ project.title}</span>
         <p>Posted by Sayan</p>
         <p className="grey-text">27th August,2020</p>
+        {/* <p className="grey-text">{ Date(project.createdAt).toString }</p> */}
+
       </div>
     </div>
   )
