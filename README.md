@@ -1,3 +1,3 @@
 # ReactDemo
 
-### This is a Demo Repository for various React applications. 
+This is a Demo Repository for various React applications. 
