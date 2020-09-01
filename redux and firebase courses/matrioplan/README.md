@@ -1,3 +1,12 @@
+<img src="images/first.png" width = "500" height="500">
+
+<img src="images/second.png" width = "500" height="500">
+
+<img src="images/third.png" width = "500" height="500">
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
